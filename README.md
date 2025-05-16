@@ -53,9 +53,9 @@ Soy un desarrollador orientado a resultados, con experiencia en desarrollo web, 
 
 ## 📫 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Andres%20Zavala%20Loredo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseandreszavala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Andres%20Zavala%20Loredo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andreszav)
 [![Outlook](https://img.shields.io/badge/Correo-Contactar%20por%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andreszav@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-joseandreszavala-black?style=flat-square&logo=github)](https://github.com/joseandreszavala)
+[![GitHub](https://img.shields.io/badge/GitHub-joseandreszavala-black?style=flat-square&logo=github)](https://github.com/starman-ai)
 
 ---
 
